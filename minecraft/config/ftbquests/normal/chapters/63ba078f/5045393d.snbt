@@ -1,0 +1,26 @@
+{
+	title: "Let's Play With Clay!",
+	x: 0.0d,
+	y: 0.0d,
+	description: "Clay!",
+	text: [
+		"The Foundation of All Life As We Know It; Clay! Welcome to Claydustry, my dear Clayer. In this modpack, we will be claying it. And by it, well..",
+		"",
+		"I mean my Clay.",
+		"",
+		"",
+		"Mine some clay from the clay floor in the clay world to get started with clay."
+	],
+	tasks: [{
+		uid: "0b549a82",
+		type: "item",
+		items: [{
+			item: "minecraft:clay_ball"
+		}]
+	}],
+	rewards: [{
+		uid: "1f83cbb4",
+		type: "item",
+		item: "minecraft:clay_ball"
+	}]
+}

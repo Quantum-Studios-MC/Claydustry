@@ -1,0 +1,17 @@
+{
+	x: 1.0d,
+	y: 2.0d,
+	text: [
+		"To accentuate this torment, your stomach has been removed from your anatomy. This might come more useful than detrimental, though, as burgers are",
+		"quite expensive."
+	],
+	dependencies: [
+		"1563d6b7"
+	],
+	tasks: [{
+		uid: "42f34d8a",
+		type: "checkmark",
+		title: "No Hunger",
+		icon: "minecraft:clay_ball"
+	}]
+}

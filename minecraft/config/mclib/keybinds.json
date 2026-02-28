@@ -1,0 +1,275 @@
+{
+    "minecraft": {
+        "": {}
+    },
+    "mcp": {
+        "": {}
+    },
+    "cleanroom": {
+        "": {}
+    },
+    "mixinbooter": {
+        "": {}
+    },
+    "configanytime": {
+        "": {}
+    },
+    "kirino_engine": {
+        "": {}
+    },
+    "kirino_ecs": {
+        "": {}
+    },
+    "kirino_gl": {
+        "": {}
+    },
+    "claydustry": {
+        "": {}
+    },
+    "FML": {
+        "": {}
+    },
+    "forge": {
+        "": {}
+    },
+    "assetmover": {
+        "": {}
+    },
+    "flare": {
+        "": {}
+    },
+    "naughthirium": {
+        "": {}
+    },
+    "scalar": {
+        "": {}
+    },
+    "smoothfontcore": {
+        "": {}
+    },
+    "xaerolib_core": {
+        "": {}
+    },
+    "xaerominimap_core": {
+        "": {}
+    },
+    "xaeroworldmap_core": {
+        "": {}
+    },
+    "smoothfont": {
+        "": {}
+    },
+    "redcore": {
+        "": {}
+    },
+    "fugue": {
+        "": {}
+    },
+    "fermiumbooter": {
+        "": {}
+    },
+    "alfheim": {
+        "": {}
+    },
+    "architecturecraft": {
+        "": {}
+    },
+    "backups": {
+        "": {}
+    },
+    "badmobs": {
+        "": {}
+    },
+    "crafttweaker": {
+        "": {}
+    },
+    "jei": {
+        "": {}
+    },
+    "base": {
+        "": {}
+    },
+    "collective": {
+        "": {}
+    },
+    "beautifiedchatclient": {
+        "": {}
+    },
+    "carbonconfig": {
+        "": {}
+    },
+    "codechickenlib": {
+        "": {}
+    },
+    "chickenchunks": {
+        "": {}
+    },
+    "chunkpregenerator": {
+        "": {}
+    },
+    "classicbar": {
+        "": {}
+    },
+    "forgelin_continuous": {
+        "": {}
+    },
+    "groovyscript": {
+        "": {}
+    },
+    "modularui": {
+        "": {}
+    },
+    "theoneprobe": {
+        "": {}
+    },
+    "clayium": {
+        "": {}
+    },
+    "controlling": {
+        "": {}
+    },
+    "cosmeticarmorreworked": {
+        "": {}
+    },
+    "ctgui": {
+        "": {}
+    },
+    "crafttweakerjei": {
+        "": {}
+    },
+    "curvy_pipes": {
+        "": {}
+    },
+    "dmgcontrol": {
+        "": {}
+    },
+    "defaultworldgenerator-port": {
+        "": {}
+    },
+    "distanthorizons": {
+        "": {}
+    },
+    "duradisplay": {
+        "": {}
+    },
+    "orelib": {
+        "": {}
+    },
+    "dsurround": {
+        "": {}
+    },
+    "effortlessbuilding": {
+        "": {}
+    },
+    "endermodpacktweaks": {
+        "": {}
+    },
+    "equipmenttooltips": {
+        "": {}
+    },
+    "extremesoundmuffler": {
+        "": {}
+    },
+    "mclib": {
+        "": {}
+    },
+    "extendedreach": {
+        "": {}
+    },
+    "extrasounds": {
+        "": {}
+    },
+    "forgelin": {
+        "": {}
+    },
+    "ftblib": {
+        "": {}
+    },
+    "ftbutilities": {
+        "": {}
+    },
+    "itemfilters": {
+        "": {}
+    },
+    "ftbquests": {
+        "": {}
+    },
+    "gogskybox": {
+        "": {}
+    },
+    "hungerstrike": {
+        "": {}
+    },
+    "inventorytweaks": {
+        "": {}
+    },
+    "jeiutilities": {
+        "": {}
+    },
+    "justenoughdimensions": {
+        "": {}
+    },
+    "keepinginventory": {
+        "": {}
+    },
+    "lemonskin": {
+        "": {}
+    },
+    "loliasm": {
+        "": {}
+    },
+    "mousetweaks": {
+        "": {}
+    },
+    "noisethreader": {
+        "": {}
+    },
+    "renderlib": {
+        "": {}
+    },
+    "nothirium": {
+        "": {}
+    },
+    "peacefulsurface": {
+        "": {}
+    },
+    "quantumhue": {
+        "": {}
+    },
+    "jeid": {
+        "": {}
+    },
+    "stackup": {
+        "": {}
+    },
+    "stellar_core": {
+        "": {}
+    },
+    "treetweaker": {
+        "": {}
+    },
+    "universaltweaks": {
+        "": {}
+    },
+    "vintagefix": {
+        "": {}
+    },
+    "xaerolib": {
+        "": {}
+    },
+    "xaeroworldmap": {
+        "": {}
+    },
+    "xaerominimap": {
+        "": {}
+    },
+    "xaeroplus": {
+        "": {}
+    },
+    "xtones": {
+        "": {}
+    },
+    "": {
+        "": {}
+    }
+}

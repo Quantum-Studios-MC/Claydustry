@@ -1,0 +1,17 @@
+filename = 'curvy_pipes-1.12.2-1.13.5.jar'
+name = 'Curvy Pipes'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'curvy_pipes-1.12.2-1.13.5.jar'
+
+[download]
+hash = 'dbc2b76ee51f6fd53ed95a58b098c8e4373a2606'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7241171
+project-id = 1151126

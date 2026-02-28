@@ -1,0 +1,14 @@
+{
+	x: 0.5d,
+	y: 7.5d,
+	dependencies: [
+		"9142e436"
+	],
+	tasks: [{
+		uid: "f32bbecf",
+		type: "item",
+		items: [{
+			item: "clayium:meta_spindle 1 151"
+		}]
+	}]
+}

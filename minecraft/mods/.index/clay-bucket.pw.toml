@@ -1,0 +1,17 @@
+filename = 'ClayBucket-1.12-1.1.jar'
+name = 'Clay Bucket'
+side = ''
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12', '1.12.1', '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'ClayBucket-1.12-1.1.jar'
+
+[download]
+hash = '78df6ee723970b54505d218a87efc927912884ef'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2463480
+project-id = 242568

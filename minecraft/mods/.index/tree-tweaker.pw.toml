@@ -1,0 +1,17 @@
+filename = 'treetweaker-1.6.1.jar'
+name = 'Tree Tweaker'
+side = ''
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'treetweaker-1.6.1.jar'
+
+[download]
+hash = '53e54d0261a0078b23aa2a865ff1f1abec6316e9'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2677608
+project-id = 298747

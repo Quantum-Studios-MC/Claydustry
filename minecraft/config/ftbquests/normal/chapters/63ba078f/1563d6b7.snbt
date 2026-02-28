@@ -1,0 +1,26 @@
+{
+	title: "The Clayer",
+	x: 0.0d,
+	y: 1.5d,
+	text: [
+		"After a wonderful life on planet Earth, you have unfortunately passed away.. But your sins against clay-kind have not been forgiven. You have been sent to",
+		"Clay Hell, forever in torment for disrespecting the God of Clay. ",
+		"",
+		"But you are not one to lose hope, are you? You are a Clayer. Clay bows down to you, not you to clay. It is time to teach the Clay Gods a lesson that they will",
+		"not forget. "
+	],
+	dependencies: [
+		"5045393d"
+	],
+	tasks: [{
+		uid: "d65db9f0",
+		type: "checkmark",
+		title: "The Player",
+		icon: "clayium:clay_tree_sapling"
+	}],
+	rewards: [{
+		uid: "77899742",
+		type: "item",
+		item: "minecraft:clay_ball"
+	}]
+}

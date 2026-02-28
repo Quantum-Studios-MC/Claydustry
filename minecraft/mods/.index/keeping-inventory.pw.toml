@@ -1,0 +1,17 @@
+filename = 'KeepingInventory-1.12.2-2.4.jar'
+name = 'Keeping Inventory'
+side = ''
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Keeping Inventory 2.4'
+
+[download]
+hash = '7c397e8fb2bc21cb21ee77c79f38e29716c77751'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2510058
+project-id = 231775

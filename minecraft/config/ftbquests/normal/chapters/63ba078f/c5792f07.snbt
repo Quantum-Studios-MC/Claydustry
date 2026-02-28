@@ -1,0 +1,19 @@
+{
+	title: "Claymortality",
+	icon: "minecraft:clay_ball",
+	x: -1.0d,
+	y: 2.0d,
+	text: [
+		"All Clayers who have been claydemned to Clay Hell are forced to endure eternal punishment - As such, they cannot die. But, unlike you, they were weak.",
+		"You are not. ",
+		"",
+		"You are the Clayer."
+	],
+	dependencies: [
+		"1563d6b7"
+	],
+	tasks: [{
+		uid: "5b27b41d",
+		type: "checkmark"
+	}]
+}

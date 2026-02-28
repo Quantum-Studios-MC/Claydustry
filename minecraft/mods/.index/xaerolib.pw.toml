@@ -1,0 +1,17 @@
+filename = 'xaerolib-forge-1.12-1.0.44.jar'
+name = 'XaeroLib'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'forge-1.12-1.0.44'
+
+[download]
+hash = '485db6bbf8bed92b5b6aa5eef5b45b6a6dd29999'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7400844
+project-id = 1417462

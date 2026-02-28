@@ -1,0 +1,43 @@
+{
+  "dimensions": [
+    {
+      "dim": 10,
+      "dimensiontype": {
+        "id": 10,
+        "name": "Clay Dimension",
+        "suffix": "_clay",
+        "keeploaded": false,
+        "worldprovider": "WorldProviderNetherJED"
+      },
+      "worldinfo_onetime": {
+        "generatorName": "nether",
+        "RandomSeed": "claydimension"
+      },
+      "worldinfo": {
+        "GameRules": {
+          "doMobSpawning": "false",
+          "doDaylightCycle": "false"
+        }
+      },
+      "jed": {
+        "spawn_point_search": {
+          "type": "cavern",
+          "min_y": 30,
+          "max_y": 230
+        },
+        "sky_render_type": "NONE",
+        "sky_brightness": 1.0,
+        "has_skylight": true,
+        "fog_color": "a68070",
+        "sky_color": "8b6f47",
+        "cloud_height": 255,
+        "water_vaporizes": false
+      },
+      "block_generation": {
+        "netherrack": "clay",
+        "soul_sand": "clay",
+        "gravel": "clay"
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: 6.0d,
+	dependencies: [
+		"ce06f817"
+	],
+	tasks: [{
+		uid: "fca13553",
+		type: "item",
+		items: [{
+			item: "clayium:clay_work_table"
+		}]
+	}]
+}

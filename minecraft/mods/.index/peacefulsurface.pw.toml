@@ -1,0 +1,17 @@
+filename = 'PeacefulSurface-1.12.2-v2.jar'
+name = 'PeacefulSurface'
+side = ''
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12', '1.12.1', '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'PeacefulSurface-1.12.2-v2.jar'
+
+[download]
+hash = 'd4316a13975b5f68f30379c1ad032c99a83d0289'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2727271
+project-id = 73112

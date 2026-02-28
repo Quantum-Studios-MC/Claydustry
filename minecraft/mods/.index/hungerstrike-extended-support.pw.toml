@@ -1,0 +1,17 @@
+filename = 'HungerStrike-1.0.8-WF.jar'
+name = 'HungerStrike: Extended support'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'HungerStrike-1.0.8-WF.jar'
+
+[download]
+hash = '5bd4bc10a34641744ea599ed5dd8883dfed7d91b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6958033
+project-id = 1340166

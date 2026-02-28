@@ -1,0 +1,19 @@
+{
+  "dimensions": [
+    {
+      "dim": 10,
+      "dimensiontype": {
+        "id": 10,
+        "name": "Clay Dimension",
+        "suffix": "_clay",
+        "keeploaded": false,
+        "worldprovider": "WorldProviderSurfaceJED"
+      },
+      "worldinfo": {
+        "generatorName": "flat",
+        "generatorOptions": "3;clay,clay,clay,clay,clay,clay,clay,clay;1;",
+        "RandomSeed": "claydimension"
+      }
+    }
+  ]
+}
