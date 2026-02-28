@@ -36,8 +36,9 @@ jobs:
         with:
           tag: ${{ github.event.release.tag_name }}
           name: ${{ github.event.release.tag_name }}
+          token: ${{ secrets.PAT }}          # use the org or repo PAT secret
           artifacts: build/modpack-latest.zip
           allowUpdates: true
-        # no token needed when reacting to the release event
+        # token lets us update existing release in case of rerun
 
 
