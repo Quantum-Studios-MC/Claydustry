@@ -1,11 +1,10 @@
 name: Build modpack
 
 on:
-  push:
-    branches: [ main ]
-  workflow_dispatch:
+  # only build when a release is published (direct‑release style)
   release:
     types: [published]
+  workflow_dispatch: {}
 
 jobs:
   build:
@@ -31,15 +30,13 @@ jobs:
           name: modpack
           path: build/modpack-latest.zip
 
-      - name: Create GitHub release
-        # only run when the ref is a tag – pushes to main/branches will not create releases
-        if: startsWith(github.ref, 'refs/tags/')
+      - name: Attach pack to release
         uses: ncipollo/release-action@v1
         with:
-          tag: ${{ github.ref_name }}       # ref_name strips the `refs/tags/` prefix
-          name: ${{ github.ref_name }}
-          token: ${{ secrets.GH_PAT }}
-          assets: build/modpack-latest.zip   # include the generated ZIP in the release
-          overwrite: true                    # update existing release if the tag already exists
-          # the action uses the provided token; no need to set GITHUB_TOKEN
+          tag: ${{ github.event.release.tag_name }}
+          name: ${{ github.event.release.tag_name }}
+          assets: build/modpack-latest.zip
+          overwrite: true
+        # no token needed when reacting to the release event
+
 
