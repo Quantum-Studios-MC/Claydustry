@@ -1,0 +1,17 @@
+filename = 'StackUp-0.2.5.jar'
+name = 'StackUp!'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'StackUp! 0.2.5'
+
+[download]
+hash = '6c1a76cfc1d867504ffa6580f6513e93ffa4d697'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3015268
+project-id = 299488

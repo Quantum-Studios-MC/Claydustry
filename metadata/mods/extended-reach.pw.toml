@@ -1,0 +1,17 @@
+filename = 'extendedreach-1.1.1-1.12.2.jar'
+name = 'Extended Reach'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Extended Reach 1.1.1'
+
+[download]
+hash = '368947a3bf14525d9943fc743b167357f374c83b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4044199
+project-id = 317185

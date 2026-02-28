@@ -1,0 +1,17 @@
+filename = 'DamageControl-1.12.2-1.3.17.jar'
+name = 'Damage Control'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'alpha'
+x-prismlauncher-version-number = 'DamageControl-1.12.2-1.3.17.jar'
+
+[download]
+hash = 'c7511c8a17db7c94ed3ad7bc5ba9d1c04ce6d953'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2810197
+project-id = 261427

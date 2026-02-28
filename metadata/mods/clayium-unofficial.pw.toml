@@ -1,0 +1,17 @@
+filename = 'clayium-1.12.2-0.13.0.jar'
+name = 'Clayium Unofficial'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'Clayium Unofficial: 1.12.2-0.13.0'
+
+[download]
+hash = '3709976b1e0173bba4f315dd6cfe1b91aef1da0a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7588111
+project-id = 1096085

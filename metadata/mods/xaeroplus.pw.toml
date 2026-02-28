@@ -1,0 +1,17 @@
+filename = 'XaeroPlus-Forge-1.12.2-183-WM1.40.6-MM25.3.5.jar'
+name = 'XaeroPlus'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Forge-1.12.2-183-WM1.40.6-MM25.3.5'
+
+[download]
+hash = '04ad0c583872b87a382033df651ca32778f83f51'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7418444
+project-id = 866084
