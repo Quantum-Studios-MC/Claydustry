@@ -2,7 +2,7 @@ name: Build modpack
 
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
   workflow_dispatch:
   release:
     types: [published]
