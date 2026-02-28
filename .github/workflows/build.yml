@@ -31,12 +31,14 @@ jobs:
           path: build/modpack-latest.zip
 
       - name: Attach pack to release
+        # only run when we're actually handling a release event
+        if: github.event_name == 'release'
         uses: ncipollo/release-action@v1
         with:
           tag: ${{ github.event.release.tag_name }}
           name: ${{ github.event.release.tag_name }}
-          assets: build/modpack-latest.zip
-          overwrite: true
+          artifacts: build/modpack-latest.zip
+          allowUpdates: true
         # no token needed when reacting to the release event
 
 
